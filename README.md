@@ -1,6 +1,6 @@
 # Poting
 
-Poting is a simple Ruby/Sinatra (web) application to demonstrate a voting system, based on the [Create your first voting app with Sinatra]: http://guides.railsgirls.com/sinatra-app tutorial at Rails Girls Guides.
+Poting is a simple Ruby/Sinatra (web) application to demonstrate a voting system, based on the [Create your first voting app with Sinatra](http://guides.railsgirls.com/sinatra-app) tutorial at Rails Girls Guides.
 
 ## Getting Started
 
