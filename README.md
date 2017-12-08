@@ -15,8 +15,6 @@ Poting is a simple Ruby/Sinatra (web) application to demonstrate a voting system
 3. Install Ruby Gems dependencies and start the web server:
 
         $ bundle install
-        $ ruby suffragist.rb
+        $ bundle exec rackup
 
-   Or run with `bundle exec ruby suffragist.rb`.
-
-4. Using a browser, go to `http://localhost:4567` and you'll see the application running
+4. Using a browser, go to `http://localhost:9292` and you'll see the application running.
